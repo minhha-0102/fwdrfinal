@@ -1,0 +1,117 @@
+[
+    {
+      "id": "911-carrera",
+      "name": "911 Carrera",
+      "description": "Biểu tượng của Porsche, mang đến sự kết hợp hoàn hảo giữa hiệu suất thể thao và tính thực dụng hàng ngày.",
+      "category": "Thể thao",
+      "price": 101200,
+      "currency": "USD",
+      "src":"../../images/911Carrera.png",
+      "specifications": {
+        "engine": "3.0L Twin-Turbo Boxer 6",
+        "horsepower": 379,
+        "torque": 331,
+        "acceleration_0_60mph": 4.0,
+        "top_speed": 182,
+        "drivetrain": "Rear-Wheel Drive"
+      },
+      "features": [
+        "Porsche Doppelkupplung (PDK)",
+        "Porsche Communication Management (PCM)",
+        "Sport Chrono Package (tùy chọn)",
+        "Hệ thống treo chủ động của Porsche (PASM)"
+      ]
+    },
+    {
+      "id": "718-cayman",
+      "name": "718 Cayman",
+      "description": "Một chiếc coupe thể thao động cơ đặt giữa mạnh mẽ và linh hoạt, mang đến trải nghiệm lái xe thuần túy.",
+      "category": "Thể thao",
+      "price": 63500,
+      "currency": "USD",
+      "src":"../../images/718Cayman.png",
+      "specifications": {
+        "engine": "2.0L Turbocharged Boxer 4",
+        "horsepower": 300,
+        "torque": 280,
+        "acceleration_0_60mph": 4.9,
+        "top_speed": 170,
+        "drivetrain": "Rear-Wheel Drive"
+      },
+      "features": [
+        "Porsche Doppelkupplung (PDK)",
+        "Porsche Communication Management (PCM)",
+        "Sound Package Plus",
+        "Hệ thống quản lý lực kéo của Porsche (PTM)"
+      ]
+    },
+    {
+      "id": "macan",
+      "name": "Macan",
+      "description": "Một chiếc SUV thể thao nhỏ gọn, kết hợp hiệu suất đặc trưng của Porsche với tính linh hoạt của một chiếc SUV.",
+      "category": "SUV",
+      "price": 57800,
+      "currency": "USD",
+      "src":"../../images/Macan.png",
+      "specifications": {
+        "engine": "2.0L Turbocharged Inline 4",
+        "horsepower": 261,
+        "torque": 295,
+        "acceleration_0_60mph": 6.2,
+        "top_speed": 144,
+        "drivetrain": "All-Wheel Drive"
+      },
+      "features": [
+        "Porsche Traction Management (PTM)",
+        "Lane Keeping Assist",
+        "ParkAssist (trước và sau)",
+        "Hệ thống âm thanh 10 loa"
+      ]
+    },
+    {
+      "id": "cayenne",
+      "name": "Cayenne",
+      "description": "Một chiếc SUV hạng sang mạnh mẽ và rộng rãi, mang đến sự thoải mái và hiệu suất vượt trội.",
+      "category": "SUV",
+      "price": 72200,
+      "currency": "USD",
+      "src":"../../images/Cayenne.png",
+      "specifications": {
+        "engine": "3.0L Turbocharged V6",
+        "horsepower": 348,
+        "torque": 368,
+        "acceleration_0_60mph": 5.9,
+        "top_speed": 156,
+        "drivetrain": "All-Wheel Drive"
+      },
+      "features": [
+        "Porsche Traction Management (PTM)",
+        "Connect Plus bao gồm Apple CarPlay®",
+        "Hệ thống treo khí nén thích ứng (tùy chọn)",
+        "Đèn pha LED ma trận"
+      ]
+    },
+    {
+      "id": "taycan",
+      "name": "Taycan",
+      "description": "Mẫu xe thể thao chạy điện đầu tiên của Porsche, kết hợp hiệu suất đột phá với thiết kế tiên phong.",
+      "category": "Điện",
+      "price": 86400,
+      "currency": "USD",
+      "src":"../../images/Taycan.png",
+      "specifications": {
+        "engine": "Electric Motor (Rear)",
+        "horsepower": "402 (Overboost with Launch Control)",
+        "torque": 254,
+        "acceleration_0_60mph": 5.1,
+        "top_speed": 143,
+        "drivetrain": "Rear-Wheel Drive"
+      },
+      "features": [
+        "Porsche Charging Planner",
+        "10.9-inch central display",
+        "Porsche Connect",
+        "Hệ thống phanh tái tạo năng lượng"
+      ]
+    }
+  ]
