@@ -46,7 +46,7 @@ function Homepage(){
           </p>
           <ul>
             <li>Chương trình Đào tạo Kỹ thuật viên Dịch vụ Porsche</li>
-            <li>Đào tạo Kỹ thuật Chuyên sâu về các hệ thống điện, hybrid và công nghệ tiên tiến</li>
+            <li>Đào tạo Kỹ thuật chuyên sâu về các hệ thống điện, hybrid và công nghệ tiên tiến</li>
           </ul>
           <a href="/porsche-technical-training" className="learn-more-button">Tìm hiểu thêm</a>
         </div>
